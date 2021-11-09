@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NotOfficial223
+- 👋 Hi, I’m Prodical
 - 👀 I’m interested in making bots on Discord
 - 🌱 I’m currently learning Javascript
 - 📫 You can reach me through Discord at Prodical#4270
